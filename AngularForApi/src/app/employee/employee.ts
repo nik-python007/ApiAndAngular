@@ -1,6 +1,6 @@
 export class Employee {
-    public EmployeeId: number;
-    public EmployeeName: string;
-    public Department: string;
-    public Salary: number;
+    public employeeId: number;
+    public employeeName: string;
+    public department: string;
+    public salary: number;
 }

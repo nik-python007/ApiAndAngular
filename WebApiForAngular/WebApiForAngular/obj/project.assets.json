@@ -8351,11 +8351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MyData\\E-Shop\\WebApiForAngular\\WebApiForAngular\\WebApiForAngular.csproj",
+      "projectUniqueName": "F:\\MyData\\E-Shop\\ApiAndAngular\\WebApiForAngular\\WebApiForAngular\\WebApiForAngular.csproj",
       "projectName": "WebApiForAngular",
-      "projectPath": "F:\\MyData\\E-Shop\\WebApiForAngular\\WebApiForAngular\\WebApiForAngular.csproj",
+      "projectPath": "F:\\MyData\\E-Shop\\ApiAndAngular\\WebApiForAngular\\WebApiForAngular\\WebApiForAngular.csproj",
       "packagesPath": "C:\\Users\\Python\\.nuget\\packages\\",
-      "outputPath": "F:\\MyData\\E-Shop\\WebApiForAngular\\WebApiForAngular\\obj\\",
+      "outputPath": "F:\\MyData\\E-Shop\\ApiAndAngular\\WebApiForAngular\\WebApiForAngular\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -7,11 +7,11 @@ import { Employee } from './employee';
 })
 export class EmployeeServiceService {
 
-  // ApiUrl = 'https://localhost:5001/';
+  ApiUrl = 'https://localhost:5001/';
   constructor(private httpClient: HttpClient ) { }
 
   GetEmployees(): Observable<Employee[]> {
     const headers = new HttpHeaders({ 'Content-Type': 'text/plain'}); 
-    return this.httpClient.get<Employee[]>('https://localhost:5001/WeatherForecast');
+    return this.httpClient.get<Employee[]>(this.ApiUrl+'Employee/GetEmployees');
   }
 }
