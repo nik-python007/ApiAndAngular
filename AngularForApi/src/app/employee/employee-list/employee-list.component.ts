@@ -11,7 +11,7 @@ export class EmployeeListComponent implements OnInit {
 
   constructor(private employeeservice: EmployeeServiceService) { }
 
-  EmployeeList: Employess[];
+  EmployeeList: Employee[];
   Temp: any[];
   ngOnInit()  {
     this.GetEmployeeList();
